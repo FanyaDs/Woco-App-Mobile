@@ -4,6 +4,7 @@ import Discover from "./Discover";
 import Bookmark from "./Bookmark";
 import Profile from "./Profile";
 import AddBlogForm from "./AddBlogForm";
+import Search from "./search";
 
-export {Home, BlogDetail, Discover, Bookmark, Profile, AddBlogForm}
+export {Home, BlogDetail, Discover, Bookmark, Profile, AddBlogForm, Search};
 
